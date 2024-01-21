@@ -1,3 +1,5 @@
+https://patricia-droid.github.io/CLASIFICACION_CLIENTES_BANCO_MODELOS/
+
 Clasificación con redes Bayesianas y otros modelos de minería de datos.
 
 Con el propósito de estudiar las causas del abandono de los clientes de un banco se proporciona un conjunto de datos con 12 variables de 4.986 clientes. Cada cliente tiene los siguientes atributos:
